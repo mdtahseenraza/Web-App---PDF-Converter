@@ -1,7 +1,7 @@
 # PDF Text Conversion Tool
 
-### <span style="color:red;">**Important Notice**</span>
-**I have not open-sourced this project.**  
+### <span style="color:red;">                                                                                   **Important Notice**</span>
+** I have not open-sourced this project.**  
 This project is intended for **production use** and is not available for public open-source distribution at this time. The code and build are confidential, and due to its sensitive nature and production environment, the project has been shared as a **zipped file with password protection**.
 
 ### Features:
