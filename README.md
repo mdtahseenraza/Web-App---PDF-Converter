@@ -25,5 +25,6 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pdf-text-conversion-tool.git
-   ![image](https://github.com/user-attachments/assets/9e82dd27-78be-41f8-baf2-b348e89ad95e)
 
+
+![image](https://github.com/user-attachments/assets/075ec418-e3b8-4caa-ac2f-5beea47a8626)
