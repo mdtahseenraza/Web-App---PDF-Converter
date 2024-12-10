@@ -2,7 +2,7 @@
 
 This project is a **production-ready** PDF text conversion and processing tool designed to automate the extraction of text from PDF files. It aims to streamline document processing by providing an efficient backend and a seamless frontend user interface.
 
-### **Important Notice**
+### ***Important Notice**
 **I have not open-sourced this project.**  
 This is a **production build** that has been developed using **Node.js** and other associated technologies. Due to its production nature, the project has been uploaded as a **zipped file with password protection**. If you would like access to it, please feel free to **DM me** for the password.
 
