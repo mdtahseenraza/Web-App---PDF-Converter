@@ -29,4 +29,3 @@ To run the project locally, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/075ec418-e3b8-4caa-ac2f-5beea47a8626)
 ![image](https://github.com/user-attachments/assets/530d83da-ecf6-4017-bb90-f6754d3cd62a)
-![image](https://github.com/user-attachments/assets/8750dd53-bea9-4c05-85b6-8965df1089cf)
